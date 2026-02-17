@@ -1,0 +1,14 @@
+venv/
+models/
+models_results/
+__pycache__/
+*.log
+*.pyc
+.ipynb_checkpoints/
+training_gemma_lora/error_log.txt
+training_gemma_lora/lora_training.log
+training_gemma_wanda/wanda_training.log
+.system_generated/
+.gemini/
+
+api_keys

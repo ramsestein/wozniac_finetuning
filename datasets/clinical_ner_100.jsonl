@@ -1,0 +1,100 @@
+{"text": "El paciente presenta fiebre alta, tos productiva y dolor torácico, compatible con un cuadro de bronquitis aguda.", "entities": [{"text": "bronquitis aguda", "label": "DIAGNOSIS"}]}
+{"text": "Se confirma el diagnóstico de diabetes mellitus tipo 2 tras los resultados de la hemoglobina glicosilada.", "entities": [{"text": "diabetes mellitus tipo 2", "label": "DIAGNOSIS"}]}
+{"text": "La tomografía revela una apendicitis aguda que requiere intervención quirúrgica inmediata.", "entities": [{"text": "apendicitis aguda", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con antecedentes de hipertensión arterial esencial, actualmente en control farmacológico.", "entities": [{"text": "hipertensión arterial esencial", "label": "DIAGNOSIS"}]}
+{"text": "El cuadro clínico de dolor abdominal y diarrea con moco y sangre es sugestivo de colitis ulcerosa.", "entities": [{"text": "colitis ulcerosa", "label": "DIAGNOSIS"}]}
+{"text": "Se diagnostica artritis reumatoide seropositiva basándose en los criterios clínicos y analíticos.", "entities": [{"text": "artritis reumatoide seropositiva", "label": "DIAGNOSIS"}]}
+{"text": "La resonancia magnética confirma la presencia de una hernia discal lumbar a nivel L4-L5.", "entities": [{"text": "hernia discal lumbar", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con diagnóstico previo de asma bronquial alérgica, que acude por exacerbación.", "entities": [{"text": "asma bronquial alérgica", "label": "DIAGNOSIS"}]}
+{"text": "Los hallazgos endoscópicos son compatibles con una gastritis erosiva crónica.", "entities": [{"text": "gastritis erosiva crónica", "label": "DIAGNOSIS"}]}
+{"text": "Se establece el diagnóstico de insuficiencia cardíaca congestiva tras el ecocardiograma.", "entities": [{"text": "insuficiencia cardíaca congestiva", "label": "DIAGNOSIS"}]}
+{"text": "La biopsia cutánea confirma el diagnóstico de psoriasis en placas.", "entities": [{"text": "psoriasis en placas", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con episodio de migraña con aura, que cede con analgesia específica.", "entities": [{"text": "migraña con aura", "label": "DIAGNOSIS"}]}
+{"text": "Los análisis de función tiroidea confirman un hipotiroidismo primario.", "entities": [{"text": "hipotiroidismo primario", "label": "DIAGNOSIS"}]}
+{"text": "El cuadro de ictericia y dolor abdominal sugiere una colecistitis aguda litiásica.", "entities": [{"text": "colecistitis aguda litiásica", "label": "DIAGNOSIS"}]}
+{"text": "Se diagnostica enfermedad pulmonar obstructiva crónica (EPOC) en fase estable.", "entities": [{"text": "enfermedad pulmonar obstructiva crónica (EPOC)", "label": "DIAGNOSIS"}]}
+{"text": "La radiografía de tórax muestra signos de neumonía lobar derecha.", "entities": [{"text": "neumonía lobar", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con diagnóstico de síndrome del intestino irritable de predominio diarreico.", "entities": [{"text": "síndrome del intestino irritable", "label": "DIAGNOSIS"}]}
+{"text": "La ecografía abdominal evidencia una litiasis renal en el riñón izquierdo.", "entities": [{"text": "litiasis renal", "label": "DIAGNOSIS"}]}
+{"text": "Se confirma un episodio de depresión mayor recurrente mediante evaluación psiquiátrica.", "entities": [{"text": "depresión mayor recurrente", "label": "DIAGNOSIS"}]}
+{"text": "El paciente presenta un cuadro clínico compatible con una mononucleosis infecciosa.", "entities": [{"text": "mononucleosis infecciosa", "label": "DIAGNOSIS"}]}
+{"text": "Paciente presenta fiebre alta y tos productiva, se confirma diagnóstico de bronquitis aguda.", "entities": [{"text": "bronquitis aguda", "label": "DIAGNOSIS"}]}
+{"text": "Tras evaluación cardiológica, se determina que el paciente sufre de hipertensión arterial esencial grado 2.", "entities": [{"text": "hipertensión arterial esencial grado 2", "label": "DIAGNOSIS"}]}
+{"text": "La resonancia magnética cerebral revela la presencia de un accidente cerebrovascular isquémico en el territorio de la arteria cerebral media.", "entities": [{"text": "accidente cerebrovascular isquémico", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con dolor abdominal crónico y cambios en el hábito intestinal, diagnóstico final: síndrome del intestino irritable tipo mixto.", "entities": [{"text": "síndrome del intestino irritable tipo mixto", "label": "DIAGNOSIS"}]}
+{"text": "Los análisis de laboratorio confirman diabetes mellitus tipo 2 descompensada.", "entities": [{"text": "diabetes mellitus tipo 2 descompensada", "label": "DIAGNOSIS"}]}
+{"text": "Examen oftalmológico detecta degeneración macular asociada a la edad en estadio avanzado.", "entities": [{"text": "degeneración macular asociada a la edad", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con antecedentes de tabaquismo, la tomografía muestra un carcinoma de pulmón de células no pequeñas.", "entities": [{"text": "carcinoma de pulmón de células no pequeñas", "label": "DIAGNOSIS"}]}
+{"text": "Se diagnostica artritis reumatoide seropositiva con afectación articular simétrica.", "entities": [{"text": "artritis reumatoide seropositiva", "label": "DIAGNOSIS"}]}
+{"text": "La ecografía abdominal evidencia colelitiasis múltiple con signos de colecistitis aguda.", "entities": [{"text": "colelitiasis múltiple", "label": "DIAGNOSIS"}, {"text": "colecistitis aguda", "label": "DIAGNOSIS"}]}
+{"text": "Evaluación psiquiátrica concluye en un trastorno depresivo mayor recurrente.", "entities": [{"text": "trastorno depresivo mayor recurrente", "label": "DIAGNOSIS"}]}
+{"text": "Paciente pediátrico con dificultad respiratoria, diagnóstico: asma bronquial de difícil control.", "entities": [{"text": "asma bronquial de difícil control", "label": "DIAGNOSIS"}]}
+{"text": "La biopsia de piel confirma el diagnóstico de lupus eritematoso sistémico con manifestaciones cutáneas.", "entities": [{"text": "lupus eritematoso sistémico", "label": "DIAGNOSIS"}]}
+{"text": "Hallazgos radiológicos compatibles con osteoartritis de rodilla bilateral grado III.", "entities": [{"text": "osteoartritis de rodilla bilateral grado III", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con palpitaciones y mareo, el electrocardiograma muestra fibrilación auricular paroxística.", "entities": [{"text": "fibrilación auricular paroxística", "label": "DIAGNOSIS"}]}
+{"text": "Se confirma infección del tracto urinario complicada por pielonefritis aguda.", "entities": [{"text": "infección del tracto urinario complicada", "label": "DIAGNOSIS"}, {"text": "pielonefritis aguda", "label": "DIAGNOSIS"}]}
+{"text": "Evaluación neurológica sugiere enfermedad de Parkinson en fase moderada.", "entities": [{"text": "enfermedad de Parkinson", "label": "DIAGNOSIS"}]}
+{"text": "La endoscopia digestiva alta revela esofagitis por reflujo grado C según clasificación de Los Ángeles.", "entities": [{"text": "esofagitis por reflujo grado C", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con pérdida de peso y sudoración nocturna, diagnóstico: tuberculosis pulmonar activa.", "entities": [{"text": "tuberculosis pulmonar activa", "label": "DIAGNOSIS"}]}
+{"text": "La angiografía coronaria evidencia enfermedad arterial coronaria multiarterial.", "entities": [{"text": "enfermedad arterial coronaria multiarterial", "label": "DIAGNOSIS"}]}
+{"text": "Examen dermatológico diagnostica psoriasis en placas de extensión moderada.", "entities": [{"text": "psoriasis en placas", "label": "DIAGNOSIS"}]}
+{"text": "El paciente presenta dolor abdominal intenso y se confirma apendicitis aguda mediante ecografía.", "entities": [{"text": "apendicitis aguda", "label": "DIAGNOSIS"}]}
+{"text": "Se diagnostica hipertensión arterial esencial grado 2 en el control de rutina.", "entities": [{"text": "hipertensión arterial esencial grado 2", "label": "DIAGNOSIS"}]}
+{"text": "La paciente refiere tos productiva y fiebre; la radiografía de tórax confirma bronquitis aguda.", "entities": [{"text": "bronquitis aguda", "label": "DIAGNOSIS"}]}
+{"text": "Tras el episodio de dolor torácico, el ECG muestra signos de infarto agudo de miocardio.", "entities": [{"text": "infarto agudo de miocardio", "label": "DIAGNOSIS"}]}
+{"text": "El niño presenta erupción cutánea y fiebre alta, diagnosticado de varicela.", "entities": [{"text": "varicela", "label": "DIAGNOSIS"}]}
+{"text": "Se identifica diabetes mellitus tipo 2 en el estudio de glucemia basal alterada.", "entities": [{"text": "diabetes mellitus tipo 2", "label": "DIAGNOSIS"}]}
+{"text": "La resonancia magnética cerebral confirma el diagnóstico de esclerosis múltiple.", "entities": [{"text": "esclerosis múltiple", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con dolor articular y rigidez matutina, diagnosticado de artritis reumatoide.", "entities": [{"text": "artritis reumatoide", "label": "DIAGNOSIS"}]}
+{"text": "Tras la colonoscopia, se diagnostica enfermedad de Crohn en el íleon terminal.", "entities": [{"text": "enfermedad de Crohn", "label": "DIAGNOSIS"}]}
+{"text": "El paciente presenta crisis convulsivas; el EEG confirma epilepsia focal.", "entities": [{"text": "epilepsia focal", "label": "DIAGNOSIS"}]}
+{"text": "Se detecta anemia ferropénica en el hemograma de control por cansancio persistente.", "entities": [{"text": "anemia ferropénica", "label": "DIAGNOSIS"}]}
+{"text": "La tomografía computarizada abdominal muestra litiasis biliar sintomática.", "entities": [{"text": "litiasis biliar sintomática", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con disnea y sibilancias, diagnosticado de asma bronquial alérgica.", "entities": [{"text": "asma bronquial alérgica", "label": "DIAGNOSIS"}]}
+{"text": "La biopsia de piel confirma el diagnóstico de lupus eritematoso sistémico.", "entities": [{"text": "lupus eritematoso sistémico", "label": "DIAGNOSIS"}]}
+{"text": "Se identifica insuficiencia renal crónica estadio 3 en los análisis de función renal.", "entities": [{"text": "insuficiencia renal crónica estadio 3", "label": "DIAGNOSIS"}]}
+{"text": "El paciente presenta dolor de cabeza pulsátil y se diagnostica migraña con aura.", "entities": [{"text": "migraña con aura", "label": "DIAGNOSIS"}]}
+{"text": "Tras el TAC craneal, se confirma accidente cerebrovascular isquémico agudo.", "entities": [{"text": "accidente cerebrovascular isquémico agudo", "label": "DIAGNOSIS"}]}
+{"text": "La gastroscopia evidencia úlcera péptica gástrica sangrante.", "entities": [{"text": "úlcera péptica gástrica sangrante", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con tos crónica y pérdida de peso; la radiografía sugiere tuberculosis pulmonar.", "entities": [{"text": "tuberculosis pulmonar", "label": "DIAGNOSIS"}]}
+{"text": "Se diagnostica dermatitis atópica severa en el examen dermatológico del niño.", "entities": [{"text": "dermatitis atópica severa", "label": "DIAGNOSIS"}]}
+{"text": "El paciente presenta fiebre alta y tos productiva, se confirma diagnóstico de bronquitis aguda.", "entities": [{"text": "bronquitis aguda", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con dolor abdominal intenso en cuadrante inferior derecho, apendicitis confirmada por TAC.", "entities": [{"text": "apendicitis", "label": "DIAGNOSIS"}]}
+{"text": "Hipertensión arterial esencial de larga evolución con cifras mal controladas a pesar de tratamiento.", "entities": [{"text": "Hipertensión arterial esencial", "label": "DIAGNOSIS"}]}
+{"text": "Paciente diabético tipo 2 con neuropatía periférica y retinopatía diabética no proliferativa.", "entities": [{"text": "diabético tipo 2", "label": "DIAGNOSIS"}, {"text": "neuropatía periférica", "label": "DIAGNOSIS"}, {"text": "retinopatía diabética no proliferativa", "label": "DIAGNOSIS"}]}
+{"text": "Se diagnostica artritis reumatoide seropositiva con afectación simétrica de pequeñas articulaciones.", "entities": [{"text": "artritis reumatoide seropositiva", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con episodio de dolor torácico opresivo, se confirma infarto agudo de miocardio con elevación del ST.", "entities": [{"text": "infarto agudo de miocardio con elevación del ST", "label": "DIAGNOSIS"}]}
+{"text": "Mujer de 45 años con diagnóstico reciente de cáncer de mama ductal infiltrante estadio II.", "entities": [{"text": "cáncer de mama ductal infiltrante estadio II", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con crisis convulsivas tónico-clónicas generalizadas, diagnóstico de epilepsia focal con generalización secundaria.", "entities": [{"text": "epilepsia focal con generalización secundaria", "label": "DIAGNOSIS"}]}
+{"text": "Varón con disnea progresiva y sibilancias, diagnóstico de asma bronquial alérgica persistente moderada.", "entities": [{"text": "asma bronquial alérgica persistente moderada", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con ictericia y dolor abdominal, se confirma diagnóstico de pancreatitis aguda biliar.", "entities": [{"text": "pancreatitis aguda biliar", "label": "DIAGNOSIS"}]}
+{"text": "Diagnóstico de enfermedad de Crohn ileocólica con fístulas perianales y respuesta parcial a tratamiento.", "entities": [{"text": "enfermedad de Crohn ileocólica", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con eritema migrans tras picadura de garrapata, diagnóstico de enfermedad de Lyme en fase temprana localizada.", "entities": [{"text": "enfermedad de Lyme en fase temprana localizada", "label": "DIAGNOSIS"}]}
+{"text": "Mujer con fatiga extrema y dolor muscular generalizado, diagnóstico de fibromialgia según criterios de 2016.", "entities": [{"text": "fibromialgia", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con visión borrosa y sed intensa, diagnóstico de diabetes mellitus tipo 1 con cetoacidosis diabética.", "entities": [{"text": "diabetes mellitus tipo 1", "label": "DIAGNOSIS"}, {"text": "cetoacidosis diabética", "label": "DIAGNOSIS"}]}
+{"text": "Varón con hematuria macroscópica y dolor lumbar, diagnóstico de litiasis renal con cálculo en uréter distal.", "entities": [{"text": "litiasis renal", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con confusión y desorientación, diagnóstico de delirium por infección del tracto urinario.", "entities": [{"text": "delirium", "label": "DIAGNOSIS"}, {"text": "infección del tracto urinario", "label": "DIAGNOSIS"}]}
+{"text": "Mujer con dolor pélvico crónico y dismenorrea, diagnóstico de endometriosis con afectación de ligamentos uterosacros.", "entities": [{"text": "endometriosis", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con tos crónica y expectoración purulenta, diagnóstico de bronquiectasias cilíndricas en lóbulos inferiores.", "entities": [{"text": "bronquiectasias cilíndricas", "label": "DIAGNOSIS"}]}
+{"text": "Varón con temblor en reposo y bradicinesia, diagnóstico de enfermedad de Parkinson idiopática estadio II de Hoehn y Yahr.", "entities": [{"text": "enfermedad de Parkinson idiopática", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con fiebre y exantema maculopapular, diagnóstico de varicela con complicación de neumonía varicelosa.", "entities": [{"text": "varicela", "label": "DIAGNOSIS"}, {"text": "neumonía varicelosa", "label": "DIAGNOSIS"}]}
+{"text": "El paciente presenta fiebre alta, tos productiva y dolor torácico pleurítico, compatible con un cuadro de neumonía bacteriana.", "entities": [{"text": "neumonía bacteriana", "label": "DIAGNOSIS"}]}
+{"text": "Se confirma el diagnóstico de diabetes mellitus tipo 2, con niveles de hemoglobina glicosilada del 8.5%.", "entities": [{"text": "diabetes mellitus tipo 2", "label": "DIAGNOSIS"}]}
+{"text": "La tomografía revela una apendicitis aguda con signos de perforación inminente.", "entities": [{"text": "apendicitis aguda", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con antecedentes de hipertensión arterial esencial, en tratamiento con enalapril.", "entities": [{"text": "hipertensión arterial esencial", "label": "DIAGNOSIS"}]}
+{"text": "El cuadro clínico de dolor abdominal cólico y rectorragia sugiere una enfermedad inflamatoria intestinal, probablemente colitis ulcerosa.", "entities": [{"text": "colitis ulcerosa", "label": "DIAGNOSIS"}]}
+{"text": "Se diagnostica insuficiencia cardíaca congestiva clase funcional III según la NYHA.", "entities": [{"text": "insuficiencia cardíaca congestiva", "label": "DIAGNOSIS"}]}
+{"text": "La resonancia magnética confirma la presencia de una hernia discal L4-L5 con compresión radicular.", "entities": [{"text": "hernia discal L4-L5", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con diagnóstico previo de asma bronquial alérgica, que acude por exacerbación.", "entities": [{"text": "asma bronquial alérgica", "label": "DIAGNOSIS"}]}
+{"text": "Los hallazgos endoscópicos son compatibles con gastritis erosiva crónica por Helicobacter pylori.", "entities": [{"text": "gastritis erosiva crónica", "label": "DIAGNOSIS"}]}
+{"text": "Se establece el diagnóstico de artritis reumatoide seropositiva con factor reumatoide elevado.", "entities": [{"text": "artritis reumatoide seropositiva", "label": "DIAGNOSIS"}]}
+{"text": "El paciente presenta un episodio de accidente cerebrovascular isquémico en territorio de la arteria cerebral media.", "entities": [{"text": "accidente cerebrovascular isquémico", "label": "DIAGNOSIS"}]}
+{"text": "La biopsia cutánea confirma el diagnóstico de lupus eritematoso sistémico con afectación cutánea.", "entities": [{"text": "lupus eritematoso sistémico", "label": "DIAGNOSIS"}]}
+{"text": "Se identifica una infección del tracto urinario complicada por pielonefritis aguda.", "entities": [{"text": "pielonefritis aguda", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con enfermedad pulmonar obstructiva crónica (EPOC) en fase de exacerbación.", "entities": [{"text": "enfermedad pulmonar obstructiva crónica (EPOC)", "label": "DIAGNOSIS"}]}
+{"text": "El cuadro de ictericia, coluria y acolia es compatible con una hepatitis viral aguda tipo A.", "entities": [{"text": "hepatitis viral aguda tipo A", "label": "DIAGNOSIS"}]}
+{"text": "Se diagnostica insuficiencia renal crónica estadio 3b según la clasificación KDIGO.", "entities": [{"text": "insuficiencia renal crónica", "label": "DIAGNOSIS"}]}
+{"text": "La ecografía abdominal muestra colelitiasis múltiple con signos de colecistitis aguda.", "entities": [{"text": "colecistitis aguda", "label": "DIAGNOSIS"}]}
+{"text": "Paciente con diagnóstico de migraña con aura, que presenta episodio actual de cefalea intensa.", "entities": [{"text": "migraña con aura", "label": "DIAGNOSIS"}]}
+{"text": "Los análisis de laboratorio confirman un hipotiroidismo primario por enfermedad de Hashimoto.", "entities": [{"text": "hipotiroidismo primario", "label": "DIAGNOSIS"}]}
+{"text": "Se establece el diagnóstico de síndrome de intestino irritable con predominio de diarrea.", "entities": [{"text": "síndrome de intestino irritable", "label": "DIAGNOSIS"}]}
